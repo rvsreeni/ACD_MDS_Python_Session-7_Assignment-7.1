@@ -1,0 +1,8 @@
+Binomial distribution
+n = 20 (total trials)
+x = 15 (success trials)
+p = 1/4 = 0.25
+
+Probability of 15 successs in 20 trials ->
+P(15) =  20! / (15! * 5!) * (1/4 ^ 15) * (3/4 ^ 5) 
+= 3.43 * 10 ^ -6
